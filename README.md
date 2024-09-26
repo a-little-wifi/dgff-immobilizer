@@ -9,6 +9,6 @@ This adapter is designed so far to work with Dell Precision and Alienware cards,
 
 I don't think I'll be finishing this project anytime soon, but maybe it can be a useful resource for others experimenting with DGFF
 
-> <img src='front3d.png' width=40%/>
+<img src='front3d.png' width=70%/>
 
-> <img src='back3d.png' width=40%/>
+<img src='back3d.png' width=70%/>
